@@ -3,10 +3,10 @@
 ## Overview
 This project is a **Movie Recommendation System** designed to provide personalized movie suggestions based on various recommendation techniques. It is inspired by the recommendation systems used by popular streaming services such as **Netflix** and **Amazon Prime**.
 
-![Project Banner](https://your-image-url.com/banner.png)
+![Project Banner](./images/banner.png)
 
-![Screenshot 1](https://your-image-url.com/screenshot1.png)
-![Screenshot 2](https://your-image-url.com/screenshot2.png)
+![Screenshot 1](./images/s1.png)
+![Screenshot 2](./images/s2.png)
 
 ## Recommendation Types
 The system includes three main types of recommendations:
