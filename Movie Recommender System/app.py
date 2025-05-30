@@ -6,7 +6,7 @@ import requests
 movies = pickle.load(open('movies.pkl', 'rb'))
 similarity = pickle.load(open('similarity.pkl', 'rb'))
 
-API_KEY = 'b7d1678f9002da330d22536e820e6143'    
+API_KEY = 'YOUR-TMDB-API-KEY'    
 
 def fetch_poster(movie_id):
     url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={API_KEY}&language=en-US"
