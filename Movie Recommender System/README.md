@@ -11,7 +11,7 @@ The system includes three main types of recommendations:
 
 ## Flow Diagram
 The overall process for the system is as follows:
-1. **Data** → 2. **Preprocessing** → 3. **Model Building** → 4. **Website Interface** → 5. **Deployment**
+1. **Data** → 2. **Preprocessing** → 3. **Model Building** → 4. **Website Interface** 
 
 ## Data Structure
 The dataset is structured as a DataFrame with three key columns:
